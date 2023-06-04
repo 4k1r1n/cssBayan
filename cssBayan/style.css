@@ -56,13 +56,14 @@ a {
 .meme-description {
   display: flex;
   align-items: center;
+  margin: 24px 0 40px;
 }
 
 .meme-title {
   font-size: 2.4rem;
   color: #d4d4d4;
   transition: color 0.2s ease-in-out;
-  margin-bottom: 40px;
+  margin: 0;
 }
 
 .meme-img {
